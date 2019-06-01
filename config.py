@@ -1,1 +1,1 @@
-weather_key = ""
+weather_key = "b5230f1f488044c6fdf2f11a67c5e4f7"
