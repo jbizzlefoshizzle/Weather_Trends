@@ -1,4 +1,4 @@
-# Weather_Trends_by_Latitude
+# Weather Trends by Latitude
 
 How can we show that weather gets warmer towards the equator?
 
